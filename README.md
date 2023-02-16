@@ -2,4 +2,4 @@
 
 ## Part 1: Create the Earthquake Visualization
 
-![](https://github.com/Gilaine-UOT/leaflet-challenge/blob/main/Capture1.PNG)
+![](https://github.com/Gilaine-UOT/leaflet-challenge/blob/main/Resources/Capture1.PNG)
